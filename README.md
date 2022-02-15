@@ -1,2 +1,2 @@
 # ExplorerLaunchX
-Mis katas Curso Python
+Full Stack Developer en Formación
