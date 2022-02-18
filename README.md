@@ -1,2 +1,2 @@
 # ExplorerLaunchX
-Full Stack Developer
+Full Stack Developer en Formación
