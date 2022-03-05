@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Mis Citas</title>
+    </head>
+    <body>  
+        <img src="imagenes/logo.PNG" width="200" height="150">
+        
+        <h1>Fisioterapia Vizcarra</h1>
+
+        <ul id="menuhorizontal">
+            <li><a href="index.html">Inicio</a></li>
+            <li><a href="agendar.html">Agendar CITA</a></li>
+            <li><a href="login.html">Administrador</a></li>
+        </ul>
+
+        <h2>Citas Programadas</h2>
+
+        <label for="fecha">Fecha</label><br>
+        <input type="date" id="fecha" name="fecha"><br>
+
+        <table border=".5" bordercolor="red">
+            
+            <tr align="center">
+                <th>Nombre</th>
+                <th>Hora</th>
+                <th>Atendida</th><br>
+            </tr>
+            <tr align="center">
+                <td>Jose</td>
+                <td>09:00</td>
+                <td><input type="checkbox"></td><br>
+            </tr>
+            <tr align="center">
+                <td>Ana</td>
+                <td>11:00</td>
+                <td><input type="checkbox"></td><br>
+            </tr>
+            <tr align="center">
+                <td>Pedro</td>
+                <td>12:00</td>
+                <td><input type="checkbox"></td><br>
+            </tr>
+        </table>
+
+        <br><br>
+
+        
+        
+        
+        <input type="button" id="boton1" name="boton1" value="Salir" onclick="location.href='index.html'"><br><br>
+
+    </body>
+</html>

@@ -1,0 +1,20 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+P{
+    font-size: 20px;
+}
+
+.colorRGB{
+    color: rgb(79, 211, 79);
+}
+
+.colorRGBA{
+    color: rgb(127, 255, 212);
+}
+
+.colorHEX{
+    color: #00ffff;
+}
+
